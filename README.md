@@ -3,7 +3,7 @@
  Ordem Paranormal RPG é um projeto de [Cellbit](https://www.twitch.tv/cellbit) transmitido ao vivo pela Twitch.
  Disponível no canal do Youtube: [Ordem Paranormal](https://www.youtube.com/@OrdemParanormal)
 
-### Screenshots
+## 📸 Screenshots
 <div>
  <img src="https://github.com/paulo-henrique-almeida/quiz-ordem-paranormal/assets/158237204/158720fb-fd68-49d1-880b-2bbb316c4e59" width="350">
  <img src="https://github.com/paulo-henrique-almeida/quiz-ordem-paranormal/assets/158237204/96398d1a-247e-4c00-bd65-3bf6016a103b" width="350">
